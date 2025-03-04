@@ -1,6 +1,6 @@
 # Création d'une Clé USB Live avec Tails OS (Mode Persistance)
 
-## Introduction
+## Presentation
 Ce tutoriel explique comment créer une clé USB bootable avec **Tails OS**, en mode **persistance**, à l'aide de **Rufus**. Tails OS est un système d'exploitation axé sur la confidentialité et l'anonymat.
 
 ---
@@ -38,10 +38,8 @@ Ce tutoriel explique comment créer une clé USB bootable avec **Tails OS**, en 
 2. **Ouvrez Rufus** et sélectionnez votre clé USB.
 3. **Paramétrez Rufus** :
    - **Périphérique** : Sélectionnez votre clé USB.
-   - **Type de démarrage** : Sélectionnez l’ISO de Tails OS.
-   - **Système de fichiers** : **FAT32**
-   - **Taille d'unité d'allocation** : **Par défaut**
-   - **Options avancées** : Cochez "Créer un disque bootable en mode ISO"
+   - **Type de démarrage** : Sélectionnez "Image disque ou ISO"
+   - Laissez le reste des parametres par defaut
 4. Cliquez sur **Démarrer** et attendez la fin du processus.
 
 ---
@@ -69,7 +67,7 @@ Tout ce qui se trouve dans le Stockage Persistant est automatiquement chiffré.
 
 ---
 
-## Conclusion
+## Pour finir
 Vous avez maintenant une clé USB **Live Tails OS avec persistance**. Cela vous permet de conserver vos paramètres et fichiers sécurisés tout en utilisant un OS axé sur la confidentialité.
 
 **Bon usage et restez en sécurité !** 🔒
