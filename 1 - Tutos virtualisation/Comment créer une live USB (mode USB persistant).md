@@ -26,7 +26,7 @@ Ce tutoriel explique comment créer une clé USB bootable avec **Tails OS**, en 
    *Si vous ne souhaitez pas utiliserla CLI, le site vous propose d'uploader votre telechargement et de verifier l'integrité du fichier*
    
 
-   <img src="img/a.png" alt="image" width="200" height="300">
+   <img src="img/a.PNG" alt="image" width="400" height="200">
 
 
 
