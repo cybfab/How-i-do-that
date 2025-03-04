@@ -11,8 +11,7 @@ Ce tutoriel explique comment créer une clé USB bootable avec **Tails OS**, en 
 - Un ordinateur avec un **port USB**
 
 ### Logiciels
-- **Tails OS** (dernière version) : [Téléchargement ici](https://tails.net/)
-- **Rufus** : [Téléchargement ici](https://rufus.ie/)
+- **Tails OS** (dernière version) : [Téléchargement ici](https://tails.net/install/index.fr.html)
 
 ---
 
@@ -23,6 +22,8 @@ Ce tutoriel explique comment créer une clé USB bootable avec **Tails OS**, en 
    sha256sum tails-amd64-x.x.x.iso
    ```
    Comparez le résultat avec celui fourni sur le site de Tails.
+   
+   *Si vous ne souhaitez pas utiliserla CLI, le site vous propose d'uploader votre telechargement et de verifier l'integrité du fichier*
 
 ---
 
