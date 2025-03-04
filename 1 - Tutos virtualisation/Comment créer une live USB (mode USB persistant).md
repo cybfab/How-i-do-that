@@ -1,6 +1,6 @@
 # Création d'une Clé USB Live avec Tails OS (Mode Persistance)
 
-## Presentation
+## Présentation
 Ce tutoriel explique comment créer une clé USB bootable avec **Tails OS**, en mode **persistance**, à l'aide de **Rufus**. Tails OS est un système d'exploitation axé sur la confidentialité et l'anonymat.
 
 ---
